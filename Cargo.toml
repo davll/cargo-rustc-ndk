@@ -1,0 +1,9 @@
+[package]
+name = "cargo-rustc-ndk"
+version = "0.1.0"
+authors = ["David Lin <davll.xc@gmail.com>"]
+
+[dependencies]
+clap = "2.31"
+lazy_static = "1.0"
+directories = "0.9"
